@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 <h1 align="center">
   <img alt="food_app_icon" src="https://github.com/AdjaroPatoussi/quiz/blob/main/screen/screen.png" width="200px"/><br/>
-  magic ball
+ quiz app 
 </h1>
 
 A few resources to get you started if this is your first Flutter project:
